@@ -1,0 +1,29 @@
+#map { height: 100%;}
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+div#search {
+  background-color: white;
+  position: absolute;
+  bottom: 40px;
+  left: 40px;
+  width: auto;
+  height: auto;
+  padding: 10px;
+}
+div#search input {
+  width: 200px;
+}
+div#results {
+  font-style: sans-serif;
+  color: black;
+  font-size: 75%;
+}
+
+img{
+  height: 75px;
+  width: 75px;
+}
